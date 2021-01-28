@@ -1,4 +1,4 @@
-package lower.price;
+package com.lower.price;
 
 import java.util.Scanner;
 
